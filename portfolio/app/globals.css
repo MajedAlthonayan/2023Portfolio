@@ -11,6 +11,11 @@ h1 {
 	font-family: "Playfair Display";
 }
 
+h2 {
+	font-size: 40px;
+	font-family: "Playfair Display";
+}
+
 h3 {
 	font-size: 39px;
 	font-family: "Lato";
@@ -19,6 +24,15 @@ h3 {
 .name {
 	color: #f9bc60;
 	font-weight: 500;
+}
+
+.myNav {
+	color: #fffffe;
+	font-size: 18px;
+}
+
+.initials {
+	color: #f9bc60;
 }
 
 .helloTitle {
